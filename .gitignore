@@ -1,1 +1,4 @@
 *.xml
+scraper/__pycache__/
+
+utilities/__pycache__/
